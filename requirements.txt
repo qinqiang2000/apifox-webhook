@@ -1,0 +1,10 @@
+uvicorn
+jinja2
+fastapi
+python-dotenv
+requests
+apscheduler
+pydantic
+starlette
+python-multipart
+httpcore
