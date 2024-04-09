@@ -21,7 +21,7 @@ API_TYPE = os.getenv('API_TYPE')
 CONFIG_PATH = "config/config.yml"
 
 # 云之家通知地址
-YUNZHIJIA_NOTIFY_URL = "https://www.yunzhijia.com/gateway/robot/webhook/send?yzjtype=0&yzjtoken=d29fe265a9594811881e86b7e3d8a1e7"
+YUNZHIJIA_NOTIFY_URL = "https://www.yunzhijia.com/gateway/robot/webhook/send?yzjtype=0&yzjtoken=ca009174f60946beb50bda508e09146b"
 # 云之家每张卡片消息最大图片数
 MAX_IMG_NUM_IN_CARD_NOTICE = 5
 # 云之家卡片消息模板id
