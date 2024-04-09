@@ -33,4 +33,4 @@ async def handle_apifox_event(project: str, request: Request, event: ApiFoxEvent
 if __name__ == "__main__":
     import uvicorn
 
-    uvicorn.run(app, host="0.0.0.0", port=9911)
+    uvicorn.run(app, host="0.0.0.0", port=9191)
